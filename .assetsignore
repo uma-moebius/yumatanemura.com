@@ -2,7 +2,6 @@
 .gitignore
 .assetsignore
 .DS_Store
-.dev.vars*
 .wrangler
 wrangler.jsonc
 README.md
