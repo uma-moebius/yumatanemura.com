@@ -1,5 +1,4 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "yumatanemura",
   "compatibility_date": "2026-10-15",
   "assets": {
