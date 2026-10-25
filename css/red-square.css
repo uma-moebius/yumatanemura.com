@@ -1,0 +1,12 @@
+.red-square {
+  display: flex;
+  flex-direction: column;
+  color: var(--red);
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.red-square__row {
+  white-space: nowrap;
+}

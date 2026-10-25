@@ -1,0 +1,18 @@
+:root {
+  --red: #e2001a;
+  --pad: 2.5rem;
+  --info-font: 0.85rem;
+  --info-gap: 1.25rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  padding: var(--pad);
+  background: #fff;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+}
