@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/ibm-plex-mono-700-latin.woff2") format("woff2");
+}
+
 :root {
   --red: #e2001a;
   --pad: 2.5rem;
